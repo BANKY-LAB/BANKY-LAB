@@ -1,4 +1,7 @@
 # Hello there; welcome 👋🏾
+[![Twitter Badge](https://img.shields.io/badge/-@Olowoyeyeoduna2-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Olowoyeyeoduna2)](https://twitter.com/Olowoyeyeoduna2)
+
+I'm a Software Engineer and Community Engineer who is currently Learning at [AltSchool Africa](https://altschoolafrica.com/schools/engineering) . I'm passionate about sharing knowledge, documentation, web engineering and others. 
 
 **Here's a quick summary about me**:
 
